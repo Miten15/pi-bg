@@ -1,4 +1,4 @@
-const User = require("../models/User")
+const User = require("../modals/User")
 
 const CryptoJS = require("crypto-js");
 const jwt = require("jsonwebtoken");
